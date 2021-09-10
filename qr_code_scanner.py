@@ -7,7 +7,7 @@ Created on Mon Aug 16 20:30:06 2021
 
 import pyzbar.pyzbar as pyzbar
 import cv2
-import numpy 
+import numpy
 
 def scan():
     i=0
@@ -21,5 +21,4 @@ def scan():
         cv2.imshow("QRCode", frame)
         cv2.waitKey(5)
         cv2.destroyAllWindows
-
 scan()
