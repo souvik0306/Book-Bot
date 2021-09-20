@@ -4,13 +4,12 @@
 
 IP - http://192.168.216.237:5000/
 
-Hardware Setup - 
+## Hardware Setup - 
 
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/a.jpeg" width="650" height="450">
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/b.jpeg" width="650" height="450">
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/c.jpeg" width="650" height="450">
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/d.jpeg" width="650" height="450">
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/e.jpeg" width="650" height="450">
+<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/b.jpeg" width="550" height="350">
+<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/c.jpeg" width="550" height="350">
+<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/a.jpeg" width="550" height="350">
+<img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/d.jpeg" width="550" height="350">
 
 
 
