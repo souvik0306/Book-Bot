@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 22 19:40:20 2021
 
-@author: ratnadeep das choudhury
-"""
 
 import numpy as np #Used for processing image data
 import cv2 as cv2 #Used for capturing images with the webcam
