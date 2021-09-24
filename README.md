@@ -12,6 +12,7 @@ IP - http://192.168.216.237:5000/
 <img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/d.jpeg" width="550" height="350">
 
 ## References - 
-Saral Tayal's Self-Drive Repository - [GitHub](https://github.com/SaralTayal123/SelfDrive)
+1. Saral Tayal's Self-Drive Repository - [GitHub](https://github.com/SaralTayal123/SelfDrive)
+2. AiPhile's Speed & Distance Estimation - [YouTube](https://www.youtube.com/watch?v=DIxcLghsQ4Q&ab_channel=AiPhile)
 
 
