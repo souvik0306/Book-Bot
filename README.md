@@ -13,6 +13,6 @@ Local Server Link for Rasp Pi's Live Stream - http://192.168.216.237:5000/
 ### *References* - 
 1. Saral Tayal's Self-Drive Repository - [GitHub](https://github.com/SaralTayal123/SelfDrive)
 2. AiPhile's Speed & Distance Estimation - [YouTube](https://www.youtube.com/watch?v=DIxcLghsQ4Q&ab_channel=AiPhile)
-3. Eben Kouao Live Stream Repository - [GitHub](https://github.com/EbenKouao/pi-camera-stream-flask)
+3. Eben Kouao's Live Stream Repository - [GitHub](https://github.com/EbenKouao/pi-camera-stream-flask)
 
 
