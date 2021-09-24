@@ -1,8 +1,6 @@
 # Book-Bot
 
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/souvik0306/Book-Bot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/souvik0306/Book-Bot/context:python)
-
-IP - http://192.168.216.237:5000/
+Local Server Link for Rasp Pi's Live Stream - http://192.168.216.237:5000/
 
 ## Hardware Setup - 
 
