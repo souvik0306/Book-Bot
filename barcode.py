@@ -14,7 +14,7 @@ while True:
         pts = pts.reshape((1,-1,2))
         cv.polylines(frame,[pts],True,(0,255,0),3)
         pts2 = barcode.rect
-        cv.putText(frame,Data,(pts2[0],pts2[1]),cv.FONT_HERSHEY_PLAIN,0.9,(255,0,0),2)
+        cv.putText(frame,Data,(pts2[0],pts2[1]),cv.FONT_HERSHEY_COMPLEX_SMALL,0.9,(255,0,0),2)
     cv.imshow("Frame",frame)
     if cv.waitKey(1) & 0xFF == 27:
         break
