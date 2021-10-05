@@ -1,6 +1,6 @@
 # Book-Bot
 
-Local Server Link for Rasp Pi's Live Stream - http://192.168.216.237:5000/
+Local Server Link for Rasp Pi's Live Stream - http://192.168.214.237:5000/
 
 ## Hardware Setup - 
 
