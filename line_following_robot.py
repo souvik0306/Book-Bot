@@ -1,5 +1,3 @@
-
-
 import numpy as np #Used for processing image data
 import cv2 as cv2 #Used for capturing images with the webcam
 from PIL import Image, ImageEnhance, ImageOps #Used for processing image data
