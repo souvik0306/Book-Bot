@@ -8,7 +8,7 @@ while True:
     _,frame = cap.read()
 
     for barcode in decode(frame):
-        # print(barcode.data.decode('utf-8'))
+        print(barcode.data.decode('utf-8'))
         Data = barcode.data.decode('utf-8')
         pts = np.array([barcode.polygon],np.int32)
         pts = pts.reshape((1,-1,2))
