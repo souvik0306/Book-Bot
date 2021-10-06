@@ -7,7 +7,8 @@ Created on Tue Oct  5 13:56:55 2021
 import cv2 as cv
 import numpy as np
 from pyzbar.pyzbar import decode 
-from camera import VideoCamerafrom flask import Flask, render_template, Response, request
+from camera import VideoCamera
+from flask import Flask, render_template, Response, request
 from camera import VideoCamera
 import time
 import threading
