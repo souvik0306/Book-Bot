@@ -37,8 +37,6 @@ def video_feed():
     return Response(gen(pi_camera),
                     mimetype='multipart/x-mixed-replace; boundary=frame')
 
-
-@app.route('/qrCodeBarCodeScan/')
 def my_link():
     cap = cv.VideoCapture(0)
 
