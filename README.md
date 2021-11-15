@@ -1,6 +1,6 @@
 # Book-Bot
 
-Local Server Link for Rasp Pi's Live Stream - http://192.168.214.237:5000/
+Local Server Link for Rasp Pi's Live Stream - http://192.168.116.237:5000/
 
 ### Steps to run livestream with Code Scanner
 1) Start livestream
