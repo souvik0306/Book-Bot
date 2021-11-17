@@ -15,14 +15,16 @@ Local Server Link for Rasp Pi's Live Stream - http://192.168.116.237:5000/
 
 <img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Image (2).jpeg" width="550" height="350">
 <img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Image (3).jpeg" width="550" height="350">
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Image (1).jpeg" width="550" height="350">
+<!-- <img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Image (1).jpeg" width="550" height="350"> -->
 <!-- <img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/d.jpeg" width="550" height="350">
  -->
- 
+ <image src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Test_Run_1.gif" width="550" height="350">
+
+  <image src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Video_2.gif" width="550" height="350">
+
 ### *References* - 
 1. Saral Tayal's Self-Drive Repository - [GitHub](https://github.com/SaralTayal123/SelfDrive)
 2. AiPhile's Speed & Distance Estimation - [YouTube](https://www.youtube.com/watch?v=DIxcLghsQ4Q&ab_channel=AiPhile)
 3. Eben Kouao's Live Stream Repository - [GitHub](https://github.com/EbenKouao/pi-camera-stream-flask)
 4. Murtaza's Workshop - [YouTube](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A)
 
-<video src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Test_Run_1.mov" width="550" height="350">
