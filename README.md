@@ -13,9 +13,9 @@ Local Server Link for Rasp Pi's Live Stream - http://192.168.116.237:5000/
 
 ## Hardware Setup - 
 
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/b.jpeg" width="550" height="350">
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/c.jpeg" width="550" height="350">
-<img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/a.jpeg" width="550" height="350">
+<img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Image(2).jpeg" width="550" height="350">
+<img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Image(3).jpeg" width="550" height="350">
+<img src="https://github.com/souvik0306/Book-Bot/blob/master/Media/Image(1).jpeg" width="550" height="350">
 <!-- <img src="https://github.com/souvik0306/Book-Bot/blob/master/Photos/d.jpeg" width="550" height="350">
  -->
  
