@@ -31,7 +31,7 @@ def codeScanner():
             cv.polylines(frame,[pts],True,(0,255,0),3)
             pts2 = barcode.rect
             cv.putText(frame,Data,(pts2[0],pts2[1]),cv.FONT_HERSHEY_COMPLEX_SMALL,0.9,(255,0,255),2)
-            return Data
+            # return Data
         cv.imshow("Frame",frame)
         if cv.waitKey(1) & 0xFF == 27:  # Press Escape Key to close all windows
             break
