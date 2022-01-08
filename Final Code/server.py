@@ -22,14 +22,14 @@ app.config["MONGO_URI"] = "mongodb://localhost:27017/IotProject"
 
 mongo = PyMongo(app)
 
-studentQR = 0
-bookBarcode = 0
+studentQR = " Not scanned yet"
+bookBarcode = " Not scanned yet"
 warn = "Scan both QR code and Book Barcode"
 success = "Submitted successfully"
 
 @app.route('/')
 def index():
-  return render_template('codeScanner.html')
+  return render_template('codeScanner.html', studentQR=studentQR, bookBarcode=bookBarcode)
 
 @app.route('/studentQR/')
 def codeScanner():
@@ -49,7 +49,7 @@ def codeScanner():
             cv.putText(frame,studentQR,(pts2[0],pts2[1]),cv.FONT_HERSHEY_COMPLEX_SMALL,0.9,(255,0,255),2)
             # scanned = mongo.db.scanned.insert_one({"scanned": studentQR})
             
-            return studentQR
+            return render_template('codeScanner.html', studentQR=studentQR, bookBarcode=bookBarcode)
             
         cv.imshow("Frame",frame)
         if cv.waitKey(1) & 0xFF == 27:  # Press Escape Key to close all windows
@@ -74,7 +74,7 @@ def barcodeScanner():
             pts2 = barcode.rect
             cv.putText(frame,bookBarcode,(pts2[0],pts2[1]),cv.FONT_HERSHEY_COMPLEX_SMALL,0.9,(255,0,255),2)
             
-            return bookBarcode
+            return render_template('codeScanner.html', bookBarcode=bookBarcode , studentQR=studentQR)
             
         cv.imshow("Frame",frame)
         if cv.waitKey(1) & 0xFF == 27:  # Press Escape Key to close all windows
