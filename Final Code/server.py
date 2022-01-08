@@ -22,8 +22,8 @@ app.config["MONGO_URI"] = "mongodb://localhost:27017/IotProject"
 
 mongo = PyMongo(app)
 
-studentQR = " Not scanned yet"
-bookBarcode = " Not scanned yet"
+studentQR = "Not scanned yet"
+bookBarcode = "Not scanned yet"
 warn = "Scan both QR code and Book Barcode"
 success = "Submitted successfully"
 
@@ -86,13 +86,13 @@ def barcodeScanner():
 def submit():
   global studentQR 
   global bookBarcode
-  if studentQR !=0 and bookBarcode != 0:
+  if studentQR !="Not scanned yet" and bookBarcode != "Not scanned yet":
     scanned = mongo.db.scanned.insert_one({"Student Id": studentQR, "Book Barcode": bookBarcode})
     studentQR=0
     bookBarcode=0
-    return success
+    return render_template('codeScanner.html', bookBarcode=bookBarcode , studentQR=studentQR, success=success)
   else:
-    return warn
+    return render_template('codeScanner.html', bookBarcode=bookBarcode , studentQR=studentQR, warn=warn)
 
 # @app.route('/records')
 # def record():
