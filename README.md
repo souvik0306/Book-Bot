@@ -1,7 +1,8 @@
 # Book-Bot
 
 ```
-S. Datta, M. Kundu, R.D. Choudhury, Sriramalakshmi P. and Sreedevi VT, “IoT Book Bot”, IEEE India Council International Subsections Conference (INDISCON). Bhubaneswar July, 2022. [Accepted]
+S. Datta, M. Kundu, R.D. Choudhury, Sriramalakshmi P. and Sreedevi VT, “IoT Book Bot”, 
+IEEE India Council International Subsections Conference (INDISCON). Bhubaneswar July, 2022. [Accepted]
 ```
 
 ### Steps to run livestream with Code Scanner
