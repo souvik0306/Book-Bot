@@ -1,8 +1,8 @@
 # Book-Bot
 
-Local Server Link for Rasp Pi's Live Stream - http://192.168.116.237:5000/
-
-S. Datta, M. Kundu, R.D. Choudhury, Sriramalakshmi P. and Sreedevi VT, “IoT Book Bot”, IEEE India. Council International Subsections Conference (INDISCON). Bhubaneswar July, 2022. [Accepted]
+```
+S. Datta, M. Kundu, R.D. Choudhury, Sriramalakshmi P. and Sreedevi VT, “IoT Book Bot”, IEEE India Council International Subsections Conference (INDISCON). Bhubaneswar July, 2022. [Accepted]
+```
 
 ### Steps to run livestream with Code Scanner
 1) Start livestream

@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 from pyzbar.pyzbar import decode 
 
-frame = cv.imread(r'Media\qr.png')
+frame = cv.imread(r'D:\Book-Bot New\Book-Bot\Media\qr.png')
 frame = cv.resize(frame,(300,300))
 for barcode in decode(frame):
     print(barcode.data.decode('utf-8'))
