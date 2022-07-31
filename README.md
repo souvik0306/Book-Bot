@@ -4,7 +4,7 @@
 S. Datta, M. Kundu, R.D. Choudhury, Sriramalakshmi P. and Sreedevi VT, “IoT Book Bot”, 
 IEEE India Council International Subsections Conference (INDISCON). Bhubaneswar July, 2022. [Accepted]
 ```
-Camera-Ready Paper - [[PDF]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/IoT%20Book%20Bot%20Final%20Draft.pdf)
+Camera-Ready Paper - [[PDF]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/IoT%20Book%20Bot%20Final%20Draft.pdf) | [[PPT]]
 ### Steps to run livestream with Code Scanner
 1) Start livestream
 2) Go to the folder of live_Stream_qr_merged
