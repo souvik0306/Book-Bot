@@ -6,6 +6,18 @@ Subsections Conference (INDISCON), 2022, pp. 1-6, doi: 10.1109/INDISCON54605.202
 ```
 ### Publication - [[PDF]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/IoT%20Book%20Bot%20Final%20Draft.pdf) | [[PPT]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/INDISCON%20Paper%20ID%20-%20152%20PPT.pdf) | [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9862937)
 
+### BibTeX - 
+```
+@INPROCEEDINGS{9862937,  
+author={Datta, Souvik and Kundu, Mangolik and Choudhury, Ratnadeep Das and P, Sriramalakshmi and V T, Sreedevi},  
+booktitle={2022 IEEE India Council International Subsections Conference (INDISCON)},   
+title={IoT Book Bot},   
+year={2022},  
+volume={},  
+number={},  
+pages={1-6},  
+doi={10.1109/INDISCON54605.2022.9862937}}
+```
 ### Steps to run livestream with Code Scanner
 1) Start livestream
 2) Go to the folder of live_Stream_qr_merged
