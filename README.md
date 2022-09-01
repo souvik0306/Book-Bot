@@ -1,10 +1,10 @@
 # Book-Bot
 
 ```
-S. Datta, M. Kundu, R.D. Choudhury, Sriramalakshmi P. and Sreedevi VT, “IoT Book Bot”, 
-IEEE India Council International Subsections Conference (INDISCON). Bhubaneswar July, 2022. [Accepted]
+S. Datta, M. Kundu, R. D. Choudhury, S. P and S. V T, "IoT Book Bot," 2022 IEEE India Council International 
+Subsections Conference (INDISCON), 2022, pp. 1-6, doi: 10.1109/INDISCON54605.2022.9862937.
 ```
-### Camera-Ready Paper - [[PDF]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/IoT%20Book%20Bot%20Final%20Draft.pdf) | [[PPT]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/INDISCON%20Paper%20ID%20-%20152%20PPT.pdf)
+### Publication - [[PDF]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/IoT%20Book%20Bot%20Final%20Draft.pdf) | [[PPT]](https://github.com/souvik0306/Book-Bot/blob/master/INDISCON/INDISCON%20Paper%20ID%20-%20152%20PPT.pdf) | [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9862937)
 
 ### Steps to run livestream with Code Scanner
 1) Start livestream
